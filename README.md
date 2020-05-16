@@ -17,7 +17,7 @@ A new Flutter project with a database to monitor the inventory of specific items
   </tr>
  </table>
  
-This project is a starting point for a Flutter application.
+This project is a starting point for developing a Flutter application.Real fun is getting from begineer to Advance follow the links provided below to know more.
 
 A few resources to get you started if this is your first Flutter project:
 
